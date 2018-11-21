@@ -1,0 +1,4 @@
+C:\Users\int96\Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp1.1\ClassLibrary1.deps.json
+C:\Users\int96\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\int96\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\int96\Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.AssemblyInfo.cs
